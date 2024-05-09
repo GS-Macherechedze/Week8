@@ -1,5 +1,6 @@
-# Week 8 Assignment 
+# Week 8 Assignment | Mastering Data Manipulation in SQL
 
+This week, we'll dive into the world of Data Manipulation Language (DML) – the powerful tools within SQL that allow you to modify existing database content. We'll leverage the pre-populated "Customers" table in the downloaded 8Week.sql database to practice essential data manipulation techniques.
 __________________________________________________________________________________________________
 ## Instructions (Read and follow instructions)
 
